@@ -38,3 +38,4 @@ else
 	echo "Atom successfuly downloaded. It\`s binaries locate at: "
 	echo $(which atom)
 fi
+Have a nice day
